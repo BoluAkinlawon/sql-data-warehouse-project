@@ -1,0 +1,2 @@
+order_id,customer_id,order_date,order_ym,product,quantity,price,revenue,city,state
+1,C001,2024-12-31,2024-12,widget a,2,9.99,19.98,Seattle,WA
