@@ -1,0 +1,5 @@
+order_id,customer_id,order_date,product,quantity,price,city,state
+1,C001,2024-12-31,   Widget A,2,9.99,seattle ,wa
+2,C002,2025/01/02,widget b,1,19.5,PORTLAND,OR
+3,C003,01-05-2025,Gadget C,5,4.0, San Francisco, ca 
+4,,2025-01-07,Widget A,3,9.99,seattle,WA
